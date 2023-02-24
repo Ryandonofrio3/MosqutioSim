@@ -6,6 +6,7 @@ To get started:
 
 ```python
 pip install -r requirements.txt
+```
 
 A few things to make sure of:
 1. All files are in the same directory
