@@ -2,7 +2,7 @@
 Mosquito Simulation Trial Version 1
 
 
-To get started:
+To get started you can clone this repo and run:
 
 ```python
 pip install -r requirements.txt
